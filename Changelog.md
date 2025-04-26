@@ -1,3 +1,15 @@
+## 1.0.0 (2025-04-26)
+
+
+### 🐛 Bug Fixes 🐛
+
+* incorrect pre-commit ([a59b89b](https://github.com/AtomiCloud/actions.cache-cargo/commit/a59b89be24b46a1ac60726a4c76175de73eb1394))
+
+
+### ✨ Features ✨
+
+* initial commit ([287d7d1](https://github.com/AtomiCloud/actions.cache-cargo/commit/287d7d1a8e4783671f484e22ffd9e50434ea0726))
+
 ## [1.1.0](https://github.com/AtomiCloud/actions.cache-bun/compare/v1.0.1...v1.1.0) (2025-01-27)
 
 
