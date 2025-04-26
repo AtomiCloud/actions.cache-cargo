@@ -14,4 +14,4 @@ jobs:
     steps:
       - uses: AtomiCloud/actions.setup-nix@v2
       - name: Run Pre-commit checks
-        run: nix develop .#ci -c scripts/ci/pre-commit.sh
+        run: nix develop .#ci -c scripts/pre-commit.sh
