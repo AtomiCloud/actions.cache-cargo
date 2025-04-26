@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/AtomiCloud/actions.cache-cargo/compare/v1.0.0...v1.0.1) (2025-04-26)
+
+
+### 🐛 Bug Fixes 🐛
+
+* remove target and dist from caching ([6e745ab](https://github.com/AtomiCloud/actions.cache-cargo/commit/6e745abf1dd126598508a62bdafff9dcc23d1550))
+
 ## 1.0.0 (2025-04-26)
 
 
