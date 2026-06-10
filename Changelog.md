@@ -1,3 +1,11 @@
+## [2.0.0](https://github.com/AtomiCloud/actions.cache-cargo/compare/v1.0.1...v2.0.0) (2026-06-10)
+
+
+### ✨ Features ✨
+
+* **breaking:** release new major for upgraded sub-actions ([8675770](https://github.com/AtomiCloud/actions.cache-cargo/commit/8675770fb28a1c6aa3f1a95d1fde2e06f45a224c))
+* upgrade sub-actions to latest versions ([3876a8b](https://github.com/AtomiCloud/actions.cache-cargo/commit/3876a8b51d30095c71ff9390703925106b1893fe))
+
 ## [1.0.1](https://github.com/AtomiCloud/actions.cache-cargo/compare/v1.0.0...v1.0.1) (2025-04-26)
 
 
