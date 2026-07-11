@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/AtomiCloud/actions.cache-cargo/compare/v2.0.0...v2.0.1) (2026-07-11)
+
+
+### 🐛 Bug Fixes 🐛
+
+* bump setup-nix to v3 ([8edc423](https://github.com/AtomiCloud/actions.cache-cargo/commit/8edc4232a55cf2cd8c2acfa833b73a3b0dca1c7d))
+
 ## [2.0.0](https://github.com/AtomiCloud/actions.cache-cargo/compare/v1.0.1...v2.0.0) (2026-06-10)
 
 
